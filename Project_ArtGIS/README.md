@@ -8,7 +8,7 @@ This app is developed on the Flutter platform, designed for both iOS and Android
 
 The app is created in mind for easier and portable access to the public as a reference tool. As such, does not rely on location status or tracking for navigation. App holds capability to copy down address and plug into respective map apps. 
 
-##Availability:
+## Availability:
 
 Currently available on Google Play, here: https://play.google.com/store/apps/details?id=com.Gardyion.project_artgis&pli=1
 
